@@ -2,6 +2,7 @@ name: Abbreviations
 description: Abbreviations are shortened forms of words or phrases.
 namedExport:
   discriminant: false
+excludeFromNavbar: false
 design:
   - title:
       name: Abbreviations
