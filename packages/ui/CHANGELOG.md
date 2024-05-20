@@ -1,5 +1,12 @@
 # @westpac/ui
 
+## 0.22.1
+
+### Patch Changes
+
+- 2097183: color change on footer component and example
+- aeceb95: updated styling on badge so it looks correct
+
 ## 0.22.0
 
 ### Minor Changes
